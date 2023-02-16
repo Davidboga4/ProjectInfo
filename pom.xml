@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>ProjectInfo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <name>ProjectInfo</name>
     <description>Project for Seat Management System</description>
     <properties>
